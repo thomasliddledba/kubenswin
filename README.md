@@ -10,6 +10,9 @@ Windows Version of the powerful tool [kubens](https://github.com/ahmetb/kubectx)
         kubenswin help                   : display usage
 ```
 
+## Also Try
+* [kubectxwin](https://github.com/thomasliddledba/kubectxwin)
+
 ## Tests
 
 | OS | Success |
